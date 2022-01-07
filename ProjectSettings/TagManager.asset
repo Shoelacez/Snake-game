@@ -7,6 +7,9 @@ TagManager:
   - Ground
   - fruit
   - head
+  - snake
+  - food
+  - Wall
   layers:
   - Default
   - TransparentFX
